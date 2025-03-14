@@ -1,3 +1,5 @@
+[![ProfileBanner](https://github.com/Davekibh/Davekibh/blob/main/Images/Banner%20Image.png)](https://Davekibh.github.io)
+
 ## Hi, I'm Noemi Ochoa 😊
 I am a Procurement Specialist with a strong focus on contract management, I can help you navigate the complexities of vendor agreements to deliver maximum valaue and mitigate risks for your organization. My expertise lies in negotiation, drafting and reviewing contracts that align with both regulatory requirements and organizational objectives.
 
