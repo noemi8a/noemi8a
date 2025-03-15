@@ -1,21 +1,19 @@
 ![Header](https://github.com/noemi8a/Awesome-CV/blob/a95ddfcfb49f5625693d70bfb6d99e867141907a/imageofPlants.jpg)
 ## Hi, I'm Noemi Ochoa 😊
-I am a Procurement Specialist with a strong focus on contract management, I can help you navigate the complexities of vendor agreements to deliver maximum valaue and mitigate risks for your organization. My expertise lies in negotiation, drafting and reviewing contracts that align with both regulatory requirements and organizational objectives.
+Let's be friends. I haven't use Github in a long time and I'm here just learning how to do a decent readme file. My hobbies are watching netflix, sleeping and going on long walks, I like stalking people's profiles and looking into my husband's browsing history
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
 <h1 align="center">Hi 👋, I'm Noemi Ochoa</h1>
-<h3 align="center">I am a Procurement Specialist with a strong focus on contract management, I can help you navigate the complexities of vendor agreements to deliver maximum valaue and mitigate risks for your organization. My expertise lies in negotiation, drafting and reviewing contracts that align with both regulatory requirements and organizational objectives.</h3>
+<h3 align="center">I am.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noemi8a&label=Profile%20views&color=0e75b6&style=flat" alt="noemi8a" /> </p>
 
-- 🔭 I’m currently working on **Stony Brook Foundation**
+- 🔭 I’m currently working on **Procrastinating**
 
-- 👯 I’m looking to collaborate on **Android developers**
+- 🤝 I’m looking for help with **Rent**
 
-- 🤝 I’m looking for help with **Open source Contribution**
-
-- 📫 How to reach me **noemi8ag@gmail.com**
+- 📫 How to reach me **I'll look for you**
 
 - ⚡ Fun fact **I ❤️ exploring new ideas**
 
