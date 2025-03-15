@@ -2,10 +2,9 @@
 ## Hi, I'm Noemi Ochoa 😊
 Let's be friends. I haven't use Github in a long time and I'm here just learning how to do a decent readme file. My hobbies are watching netflix, sleeping and going on long walks, I like stalking people's profiles and looking into my husband's browsing history
 
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
+<img align="left" alt="GIF" src="https://github.com/noemi8a/Awesome-CV/blob/96df82371d503c40b18789d611ab3280bb5a00f4/YOUUP.JPG" width="400" height="500" />
 
-<h1 align="center">Hi 👋, I'm Noemi Ochoa</h1>
-<h3 align="center">I am.</h3>
+<h3 align="center">Y sé amable contigo mismo cuando te sientas mal, trata de pensar en algo bueno que una vez te pasó o de algo bueno que te pueda pasar. A menudo somos demasiado duros con nosotros mismos.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noemi8a&label=Profile%20views&color=0e75b6&style=flat" alt="noemi8a" /> </p>
 
